@@ -1,0 +1,20 @@
+.col-md-4 img {
+    width: 140px;
+    height: 140px;
+}
+
+.styles{
+    min-width: 100%;
+
+    color: #ffffff;
+}
+
+.styles a{
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+.styles a:hover{
+    opacity: 1;
+    text-decoration: none;
+}
